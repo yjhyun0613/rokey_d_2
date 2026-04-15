@@ -1,0 +1,4 @@
+[console_scripts]
+click = robot_depth.click:main
+depth_checker = robot_depth.depth_checker:main
+
